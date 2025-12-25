@@ -11,7 +11,7 @@ The system follows a **decoupled architecture**:
 
 ## 🚀 Live Demo
 
-- **Frontend:** *[https://captioning-hnu.vercel.app/](https://captioning-hnu.vercel.app/)
+- **Frontend:** [https://captioning-hnu.vercel.app/](https://captioning-hnu.vercel.app/)
 - **Backend API:** [https://mokh2x-captioning.hf.space/predict](https://mokh2x-captioning.hf.space/predict)
 
 ---
